@@ -35,7 +35,7 @@ body {
 .hero {
   text-align: center;
   padding: 80px 20px;
-  background: linear-gradient(135deg, #cff8ff,#f0d1ff, #ffd6fd);
+  background: linear-gradient(135deg, #dddbff,#f9ecff, #ffd7fd);
   color: rgb(0, 0, 0);
 }
 
@@ -130,4 +130,5 @@ footer {
 
 .screenshots-grid img:hover {
   transform: scale(1.05);
+
 }
