@@ -132,9 +132,10 @@ footer {
   transform: scale(1.05);
 
 }
-img {
-  width: 100px;
-  height: 100px;
+.app-icon {
+  width: 200px;
+  height: auto;
 }
+
 
 
